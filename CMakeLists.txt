@@ -15,6 +15,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 if(APPLE)
 add_compile_options(-mmacosx-version-min=10.15)
 endif()
+
 ############################
 ##  Modules and scripts   ##
 ############################
